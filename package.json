@@ -1,0 +1,11 @@
+{
+  "name": "lykuro-zenn-content",
+  "private": true,
+  "scripts": {
+    "preview": "zenn preview",
+    "new:article": "zenn new:article"
+  },
+  "devDependencies": {
+    "zenn-cli": "^0.2.3"
+  }
+}
